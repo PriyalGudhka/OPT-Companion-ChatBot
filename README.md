@@ -1,7 +1,4 @@
 # OPT Companion: AI-Powered Work Authorization Assistant
-# Authors
-1. Priyal Vimal Gudhka (Email ID: gudhka.p@northeastern.edu) 
-2. Shruti Srivastava  (Email ID: srivastava.shru@northeastern.edu)
 
 ## 1 About
 A chatbot system designed to answer questions related to the OPT (Optional Practical Training) process. It uses a pre-trained model, fine-tuned for sequence classification, to understand the context of user queries. The system also incorporates Pinecone, a vector database, for fast and efficient retrieval of relevant answers from a large dataset.

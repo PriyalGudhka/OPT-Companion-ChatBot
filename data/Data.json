@@ -1,0 +1,48 @@
+{
+    "data": [
+      {
+        "text": "F-1 students may apply to United States Citizenship and Immigration Services (USCIS) for Post-Completion Optional Practical Training (OPT) work authorization, which helps them apply their classroom learning to the real-world.",
+        "label": "general_information"
+      },
+      {
+        "text": "Post-Completion Optional Practical Training (Post-OPT) is a type of employment authorization adjudicated by U.S. Citizenship and Immigration Services (USCIS). It is available to eligible F-1 students for the purpose of gaining practical experience directly related to their program of study.",
+        "label": "definition"
+      },
+      {
+        "text": "A Post-OPT application first requires an OPT recommendation on a student's Form I-20, then a timely application to USCIS for final adjudication. If successful, USCIS will issue an Employment Authorization Document (EAD).",
+        "label": "application_process"
+      },
+      {
+        "text": "Students may apply for a maximum of 12-months of Post-Completion OPT upon completion of each higher degree level. Only one Post-Completion OPT application is allowed per academic degree level (i.e. Bachelor’s, Master’s, PhD).",
+        "label": "eligibility"
+      },
+      {
+        "text": "You may apply for Post-Completion OPT only if all of the following criteria have been met:\n\u2022 You have maintained a valid F-1 student status\n\u2022 You have been enrolled full-time for at least one academic year\n\u2022 You have completed fewer than 365 days of full-time Curricular Practical Training (CPT) at the degree level for which you are applying for OPT\n\u2022 You have completed all coursework (may be in final stages of thesis/dissertation)\n\u2022 You are inside the U.S.",
+        "label": "eligibility_criteria"
+      },
+      {
+        "text": "If you depart the U.S. before your OPT application has been filed, received and receipted by the USCIS, you become ineligible to apply for Post-Completion OPT if your program has ended.",
+        "label": "travel_restrictions"
+      },
+      {
+        "text": "You may apply to USCIS for Post-Completion OPT work authorization no earlier than 90 days prior to your program completion date. Post-OPT applications cannot be submitted to USCIS later than 60 days after the program completion date (i.e. during the 60-day grace period).",
+        "label": "application_timeline"
+      },
+      {
+        "text": "The program end date on your I-20 is an estimated program end date, which may be different from your actual program end date. You must apply for OPT based on your last registered term. For immigration purposes, program completion date corresponds with the last term of enrollment, not necessarily the date of the graduation ceremony or degree conferral date.",
+        "label": "program_end_date"
+      },
+      {
+        "text": "For example, if you finish all of your courses in May, but your degree conferral is in August, your I-20 end date will be a May date if you have no registration over the summer.",
+        "label": "example_program_end_date"
+      },
+      {
+        "text": "Students in the PhD program may choose the date of completion based on any of the following dates:\n\u2022 Dissertation defense date, or\n\u2022 Dissertation/correction submission date, or\n\u2022 End of last registered term",
+        "label": "phd_completion_dates"
+      },
+      {
+        "text": "If you have not used any Pre-Completion OPT time, you may request up to 12-months of Post-Completion OPT. You must request a start date within the 60-day grace period of your program. You select your own start and end date for OPT (even if you do not yet have a job offer).",
+        "label": "request_details"
+      }
+    ]
+  }  

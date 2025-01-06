@@ -1,0 +1,14 @@
+streamlit
+streamlit_chat
+langchain
+sentence_transformers
+openai==0.28
+unstructured
+unstructured[local-inference]
+pinecone-client
+datasets
+transformers>=4.0.0
+torch>=1.10.0
+accelerate>=0.26.0
+python-dotenv
+pytest
